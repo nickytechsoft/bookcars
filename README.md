@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/77b08dc431594cfe8d382027c66d810b)](https://app.codacy.com/gh/nickytechsoft/bookcars?utm_source=github.com&utm_medium=referral&utm_content=nickytechsoft/bookcars&utm_campaign=Badge_Grade)
 [![Backend CI](https://github.com/aelassas/bookcars/actions/workflows/backend.yml/badge.svg)](https://github.com/aelassas/bookcars/actions/workflows/backend.yml)
 [![Frontend CI](https://github.com/aelassas/bookcars/actions/workflows/frontend.yml/badge.svg)](https://github.com/aelassas/bookcars/actions/workflows/frontend.yml) [![open in vscode](https://img.shields.io/badge/open%20in-vscode-1f425f.svg)](https://vscode.dev/github/aelassas/bookcars)
 
